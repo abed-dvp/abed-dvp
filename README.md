@@ -2,7 +2,7 @@
 
 **Product × Data × AI | Berlin, Germany**
 
-I combine **6+ years of product experience** with hands-on work in **data analytics, machine learning, and AI systems**. I enjoy building practical end-to-end projects — from data preparation and model evaluation to APIs, containerization, cloud workflows, and agentic applications.
+I combine **6+ years of experience in product roles**, recently graduated from Masters in Computer Science and hands-on work in **data analytics, machine learning, and AI systems**. I enjoy building practical end-to-end projects  from data preparation and model evaluation to APIs, containerization, cloud workflows, and agentic applications.
 
 ## Technical Focus
 
@@ -24,4 +24,4 @@ Leakage-aware machine-learning data preparation for an imbalanced classification
 
 ## Current Direction
 
-I am especially interested in roles where **product thinking meets technical execution** — including data products, AI/ML applications, automation, and technical product development.
+I am especially interested in roles where **product thinking meets technical execution**  including data products, AI/ML applications, automation, and technical product development.
